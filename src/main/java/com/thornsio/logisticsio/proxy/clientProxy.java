@@ -5,4 +5,12 @@ package com.thornsio.logisticsio.proxy;
  */
 public class clientProxy extends commonProxy
 {
+    public void registerRenderThings()
+    {
+
+    }
+    public void registerTileEntitySpecialRenderer()
+    {
+
+    }
 }

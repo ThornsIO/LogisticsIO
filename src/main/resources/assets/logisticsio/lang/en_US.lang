@@ -1,0 +1,6 @@
+item.logisticsio:item.roller.name=Roller
+item.logisticsio:item.IngotSteel.name=Steel Ingot
+
+tile.logisticsio:test.name=Test Block
+
+itemGroup.logisticsio=Logistics I/O

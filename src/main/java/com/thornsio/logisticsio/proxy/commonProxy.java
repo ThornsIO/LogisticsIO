@@ -5,4 +5,12 @@ package com.thornsio.logisticsio.proxy;
  */
 public abstract class commonProxy implements IProxy
 {
+    public void registerRenderThings()
+    {
+
+    }
+    public void registerTileEntitySpecialRenderer()
+    {
+
+    }
 }
